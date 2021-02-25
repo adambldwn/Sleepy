@@ -106,15 +106,6 @@ html {
     border-radius: 5px;
 }
 
-.courses .course .course-image span {
-    background: red;
-    padding: 0.25rem;
-    color: #fff;
-    border-radius: 4px;
-    position: absolute;
-    top: 0;
-    left: 0;
-}
 
 .courses .course .course-info .title {
     letter-spacing: 1.2px;

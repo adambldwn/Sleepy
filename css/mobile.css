@@ -6,6 +6,10 @@
     height: 110px;
 }
 
+#featuresnone {
+    display: none;
+}
+
 #home {
     display: flex;
     flex-direction: column;
@@ -15,9 +19,19 @@
     height: auto;
     border-radius: 10px;
     margin-right: 10px;
-    width: 250px;
+    width: 270px;
     height: 250px;
     margin-bottom: 10px;
+}
+
+.courses .course .course-image {
+    margin-bottom: 0px;
+    position: relative;
+}
+
+.courses .course .course-info .title {
+   
+    margin-top: 0px;
 }
 
 #training .items {
