@@ -1,3 +1,27 @@
 h1 {
     color: #442c2b;
 }
+
+#navbar {
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 110px;
+}
+
+
+#home {
+    display: flex;
+    flex-direction: column;
+}
+
+#home img {
+    height: auto;
+    border-radius: 10px;
+    margin-right: 0px;
+    width: 500px;
+    height: 500px;
+    margin-bottom: 10px;
+    align-self: center;
+}
